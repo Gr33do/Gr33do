@@ -54,7 +54,7 @@ I love exploring how frontend and Backend logic interacts with cloud environment
 ###
 
 <div align="left">
-  <a href="in/luca-wiepcke">
+  <a href="www.linkedin.com/in/luca-wiepcke">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   </a>  
 </div>
